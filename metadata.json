@@ -1,0 +1,6 @@
+{
+  "name": "MAAAOEW | Smartphone-Docked Medication Assistant",
+  "description": "Cat-inspired smart dispenser utilizing docked smartphones as the primary computing engine for hypertension regimen adherence and clinic monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
